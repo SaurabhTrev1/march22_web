@@ -1,0 +1,15 @@
+#main{
+    text-align: center;
+    background-color: rgba(195, 255, 127, 0.329);
+    padding: auto;
+    margin: 70px;
+    border-radius: 30px;
+
+}
+
+#vi{
+    padding: 10px;
+    margin: 10px;
+    height: 500px;
+    width: 700px;
+}

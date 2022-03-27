@@ -1,0 +1,17 @@
+#container{
+    background-color: rgba(89, 180, 160, 0.336);
+    text-align: center;
+    padding: auto;
+    border-bottom: 30px;
+}
+#head{
+    background-color: rgba(72, 117, 98, 0.384);
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+#main{
+    height: 100%;
+width: 100%;
+border-bottom-right-radius: 30px;
+}

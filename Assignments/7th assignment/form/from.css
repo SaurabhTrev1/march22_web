@@ -1,0 +1,35 @@
+#main{
+    margin: 50px;
+    padding: 50px;
+    background-color: rgba(110, 139, 145, 0.781);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#b1{
+    font-style: italic;
+}
+#bod{
+    background-image: url("https://www.teahub.io/photos/full/96-961892_corporate-desktop-wallpaper-designs.jpg");
+    height: 90%;
+    width: 90%;
+    margin: 50px auto;
+    padding: 50px auto;
+    overflow: hidden;
+}
+#head{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+}
+#b2{
+    font-style: italic;
+}
+#b3{
+    font-style: italic;
+}
+#b4{
+    font-style: italic;
+}
+#b5{
+    font-style: italic;
+}
